@@ -1,0 +1,15 @@
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\bin\Debug\net10.0\Employee.Tests.deps.json
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\bin\Debug\net10.0\Employee.Tests.dll
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\bin\Debug\net10.0\Employee.Tests.pdb
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\obj\Debug\net10.0\Employee.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\obj\Debug\net10.0\Employee.Tests.AssemblyInfoInputs.cache
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\obj\Debug\net10.0\Employee.Tests.AssemblyInfo.cs
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\obj\Debug\net10.0\Employee.Tests.csproj.CoreCompileInputs.cache
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\obj\Debug\net10.0\Employee.Tests.sourcelink.json
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\obj\Debug\net10.0\Employee.Tests.dll
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\obj\Debug\net10.0\refint\Employee.Tests.dll
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\obj\Debug\net10.0\Employee.Tests.pdb
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\obj\Debug\net10.0\ref\Employee.Tests.dll
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\bin\Debug\net10.0\Employee.Tests.runtimeconfig.json
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\obj\Debug\net10.0\Employee.Tests.csproj.AssemblyReference.cache
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Tests\obj\Debug\net10.0\Employee.Tests.genruntimeconfig.cache

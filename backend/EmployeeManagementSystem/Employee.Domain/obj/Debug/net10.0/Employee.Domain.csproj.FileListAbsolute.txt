@@ -1,0 +1,12 @@
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Domain\bin\Debug\net10.0\Employee.Domain.deps.json
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Domain\bin\Debug\net10.0\Employee.Domain.dll
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Domain\bin\Debug\net10.0\Employee.Domain.pdb
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Domain\obj\Debug\net10.0\Employee.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Domain\obj\Debug\net10.0\Employee.Domain.AssemblyInfoInputs.cache
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Domain\obj\Debug\net10.0\Employee.Domain.AssemblyInfo.cs
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Domain\obj\Debug\net10.0\Employee.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Domain\obj\Debug\net10.0\Employee.Domain.sourcelink.json
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Domain\obj\Debug\net10.0\Employee.Domain.dll
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Domain\obj\Debug\net10.0\refint\Employee.Domain.dll
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Domain\obj\Debug\net10.0\Employee.Domain.pdb
+D:\Projects\Mobil Apps\EmployeeManagementSystem\backend\EmployeeManagementSystem\Employee.Domain\obj\Debug\net10.0\ref\Employee.Domain.dll
